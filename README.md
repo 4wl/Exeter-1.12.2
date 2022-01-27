@@ -4,4 +4,4 @@ the final release
 
 ported to 1.12.2
 
-(yes, I reskined it to be future)
+(yes, I reskined it to be like future)
